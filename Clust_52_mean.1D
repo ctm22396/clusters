@@ -1,0 +1,9 @@
+# mean from Cluster #52 from command
+#  3dclust -1Dformat -nosum -1dindex 1 -1tindex 1 -2thresh -3.418 3.418 -dxyz=1 1.44 13 /a/ha-nfs-1-ib/export/data/bswift-0/meyerct/emoprox/MEMA_res_velocity/VelocityXProximity_v_Background.nii.gz
+# From datasets
+#  prox_means.nii.gz[0..3]
+#  vel_means.nii.gz[0..3]
+   -0.000648915      0.0034591
+     0.00166173    0.000929383
+     0.00772352     0.00794863
+    -0.00202537    -0.00181779
